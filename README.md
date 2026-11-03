@@ -18,7 +18,7 @@
 
 # 🎓 About Me
 
-🎓 <em>✏️ Background in Business & Finance, currently specializing in data analysis and business intelligence.</em>
+🎓 <em>✏️ Background in Business & Finance, currently specializing in Big Data, Cloud and Artificial Intelligence.</em>
 🔐 <em>✏️ Experienced in data visualization and reporting, using Power BI and analytical thinking to solve real business problems.</em>
 💡 <em>✏️ Always building, analyzing, and shipping data-driven projects in public.</em>
 
