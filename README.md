@@ -34,7 +34,7 @@
 # 🏆 Achievements
 
 * 🥈 *Director of Marketing at Investment Club UPV — led outreach and coordinated the Stock Market Week.*
-* 🏅 *Business Administration & Management Degree student at Universitat Politècnica de València (UPV).*
+* 🏅 *Business Administration & Management Degree graduate at Universitat Politècnica de València (UPV).*
 * 📜 *Microcredential in Business Foundations with Power BI — University of Valencia.*
 * 🌍 *Cambridge Certificate in Advanced English (CAE) — C1 level proficiency.*
 ---
